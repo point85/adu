@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: Information about the Auxiliary Dwelling Unit (ADU) website
 permalink: /about/
 ---
 <img src="../resources/images/ADU.jpg" alt="ADU" style="width:50%; display: block; margin-left: auto; margin-right: auto;"> 

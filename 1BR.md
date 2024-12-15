@@ -1,6 +1,7 @@
 ---
 layout: page
 title: One Bedroom
+description: Description of one bedroom ADU plans
 permalink: /1BR/
 ---
 <h3>San Miguel</h3>

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Two Bedroom
+description: Description of two bedroom ADU plans
 permalink: /2BR/
 ---
 <h3>Adelaide</h3>

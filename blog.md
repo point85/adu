@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+description: Discussion of Auxiliary Dwelling Unit (ADU) topics
 permalink: /blog/
 ---
 
