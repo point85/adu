@@ -1,7 +1,7 @@
 title: Accessory Dwelling Unit
 email: point85.llc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Plans for Accessory Dewelling Units (ADUs) (v1.0)
+    Plans for Accessory Dwelling Units (ADUs) (v1.0.1)
 author: Kent Randall
 baseurl: "/adu" # the subpath of the site
 url: "" # the base hostname & protocol for the site
