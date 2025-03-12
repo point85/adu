@@ -58,3 +58,21 @@ permalink: /1BR/
 <p><a href="../resources/files/Creston.zip" target="_blank">Chief Architect Backup File</a></p>
 ---
 <a href="index.html">Return to top</a>
+
+<h3>Santa Rita</h3>
+<img src="../resources/images/Santa Rita Perspective.jpg" alt="Santa Rita" style="width:100%; display: block; margin-left: auto; margin-right: auto;">
+<p>The Santa Rita is a one bedroom one bathroom ADU with 522 sq. ft. of living area.  It is rendered in traditional style with a covered front porch.</p>
+<ul>
+<li>The kitchen has a microwave over the range with a full-size refrigerator.  There is table seating for four people.</li>
+<li>The bath is a tub-shower combination.</li>
+<li>Space is provided for a full-size stacked washer/dryer laundry pair.</li>
+<li>Heating and air conditioning is provided by a ductless mini-split heat pump.</li>
+<li>Hot water is provided by a tankless unit.</li>
+</ul>
+
+<p>Document Links:</p>
+<p><a href="https://3d-viewer.chiefarchitect.com/go?share=342992532025905" target="_blank">Interactive 3D Viewer Model</a></p>
+<p><a href="../resources/docs/Santa Rita Arch C.pdf" target="_blank">Architectural C Layout PDF</a></p>
+<p><a href="../resources/files/Santa Rita.zip" target="_blank">Chief Architect Backup File</a></p>
+---
+<a href="index.html">Return to top</a>
